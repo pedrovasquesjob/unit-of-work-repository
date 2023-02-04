@@ -1,0 +1,15 @@
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\bin\Debug\net7.0\Repositories.deps.json
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\bin\Debug\net7.0\Repositories.dll
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\bin\Debug\net7.0\Repositories.pdb
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\bin\Debug\net7.0\Dominio.dll
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\bin\Debug\net7.0\Dominio.pdb
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\Repositories.AssemblyInfo.cs
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\Repositories.csproj.CopyComplete
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\Repositories.dll
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\refint\Repositories.dll
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\Repositories.pdb
+C:\Users\pe_va\Desktop\Projetos\repositorio\src\UnitOfWorkRepository\Repositories\obj\Debug\net7.0\ref\Repositories.dll
